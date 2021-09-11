@@ -19,13 +19,13 @@ import static org.eclipse.jdt.internal.compiler.parser.Parser.name;
 public class user {
     
     
-    int id;
-    String username;
-    String password;
-    String email;
-    String fullname;
-    String gender;
-    String city;
+    private int id;
+    private String username;
+    private String password;
+    private  String email;
+    private  String fullname;
+    private String gender;
+    private String city;
     
     
     public user()
